@@ -115,7 +115,7 @@ const Footer = () => {
               <li className="mb-3  pl-4 relative">
                 <Link href="/career">Careers</Link>
               </li>
-               <li className="mb-3 pl-4 relative">
+              <li className="mb-3 pl-4 relative">
                 <Link href="/privacypolicy">Privacy Policy</Link>
               </li>
             </ul>
